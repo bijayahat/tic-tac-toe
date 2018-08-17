@@ -1,2 +1,2 @@
 # tic-tac-toe
-tic-tac-toe game made source code in c++
+tic-tac-toe game with source code built in c++
